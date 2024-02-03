@@ -1,6 +1,6 @@
-**Hello, I'm Ilya. I like coding in Rust.**
+**Hello! I'm Ilya, a big Rust enthusiast**
 
-Here are the programs I've written so far:
+Below is a portfolio of my programming projects:
 
 **Advent of Code**
 
@@ -18,17 +18,17 @@ Advent of Code is a set of small programming puzzles for a variety of skill sets
 
 **Apps**
 
-* [Calculator](https://github.com/NeoScripter/Egui_calculator), convenient and powerful Rust calculator with a sleek design.
-* [Guessing Game](https://github.com/NeoScripter/Egui_guessing_game), the guessing game from the Rust book implemented in Egui.
+* [Calculator](https://github.com/NeoScripter/Egui_calculator), a robust and user-friendly calculator with a sleek design built in Rust.
+* [Guessing Game](https://github.com/NeoScripter/Egui_guessing_game), an implementation of the classic guessing game from the Rust book, enhanced with Egui for a smooth user experience.
 
 **Other projects**
 
-* [Asynchronized task executor](https://github.com/NeoScripter/Projects/blob/main/bin/async_task_executor/main.rs)
-* [Tree with generic types](https://github.com/NeoScripter/Projects/blob/main/bin/generic_tree/main.rs)
-* [Metadata extractor](https://github.com/NeoScripter/Projects/blob/main/bin/metadata_extractor/main.rs)
-* [Multithreaded quicksort algorythm](https://github.com/NeoScripter/Projects/blob/main/bin/qcksort_multi_thread/main.rs)
-* [Multithreaded map](https://github.com/NeoScripter/Projects/blob/main/bin/parallel_map/main.rs)
-* [Sliding window](https://github.com/NeoScripter/Projects/blob/main/bin/sliding_window/main.rs)
-* [User input validator](https://github.com/NeoScripter/Projects/blob/main/bin/user_input_validation/main.rs)
-* [Network query simulation](https://github.com/NeoScripter/Projects/blob/main/bin/network_rq_sim/main.rs)
-* [Multithreaded message logger](https://github.com/NeoScripter/Projects/blob/main/bin/logging_system/main.rs)
+* [Asynchronized task executor](https://github.com/NeoScripter/Projects/blob/main/bin/async_task_executor/main.rs), a simulation of an asynchronized task executor.
+* [Tree with generic types](https://github.com/NeoScripter/Projects/blob/main/bin/generic_tree/main.rs), an implementation of a tree data structure, supporting generic types.
+* [Metadata extractor](https://github.com/NeoScripter/Projects/blob/main/bin/metadata_extractor/main.rs), a program for extracting metadata.
+* [Multithreaded quicksort algorythm](https://github.com/NeoScripter/Projects/blob/main/bin/qcksort_multi_thread/main.rs), a concurrent version of the classic quicksort algorithm for enhanced performance.
+* [Multithreaded map](https://github.com/NeoScripter/Projects/blob/main/bin/parallel_map/main.rs), a thread-safe implementation of the map data structure.
+* [Sliding window](https://github.com/NeoScripter/Projects/blob/main/bin/sliding_window/main.rs), an algorithm for efficient data processing and analysis.
+* [User input validator](https://github.com/NeoScripter/Projects/blob/main/bin/user_input_validation/main.rs), a program for validating user input.
+* [Network query simulation](https://github.com/NeoScripter/Projects/blob/main/bin/network_rq_sim/main.rs), a simulation of a network queries analyzer.
+* [Multithreaded message logger](https://github.com/NeoScripter/Projects/blob/main/bin/logging_system/main.rs), a simulation of a thread-safe logging system.
