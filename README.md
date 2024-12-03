@@ -1,34 +1,58 @@
-**Hello! I'm Ilya, a big Rust enthusiast**
+## 👋 About Me
+Hey there! I'm a web developer who genuinely loves building high-quality, fast, and customizable websites and apps. I work with languages like Rust, JavaScript, PHP, HTML, and CSS, and I use frameworks and tools like Laravel, WordPress, and SCSS. I care a lot about performance and making sure my code is clean and maintainable.
 
-Below is a portfolio of my programming projects:
+I'm always eager to learn new things and improve my skills. Creating apps isn't just my job—it's what I enjoy doing most. If you want to see what I've been up to, feel free to check out my work!
 
-**Advent of Code**
 
-Advent of Code is a set of small programming puzzles for a variety of skill sets and skill levels that can be solved in any programming language.
 
-* [2023](https://github.com/NeoScripter/AOC_2023_Rust), solutions to year 2023 problems in Rust.
-* [2022](https://github.com/NeoScripter/AOC_2022_Rust), solutions to year 2022 problems in Rust.
-* [2021](https://github.com/NeoScripter/AOC_2021_Rust), solutions to year 2021 problems in Rust.
-* [2020](https://github.com/NeoScripter/AOC_2020_Rust), solutions to year 2020 problems in Rust.
-* [2019](https://github.com/NeoScripter/AOC_2019_Rust), solutions to year 2019 problems in Rust.
-* [2018](https://github.com/NeoScripter/AOC_2018_Rust), solutions to year 2018 problems in Rust.
-* [2017](https://github.com/NeoScripter/AOC_2017_Rust), solutions to year 2017 problems in Rust.
-* [2016](https://github.com/NeoScripter/AOC_2016_Rust), solutions to year 2016 problems in Rust.
-* [2015](https://github.com/NeoScripter/AOC_2015_Rust), solutions to year 2015 problems in Rust.
 
-**Apps**
+## 🖥️ Programming Languages
+**Rust:**
+Rust was the first programming language I learned, and I quickly got hooked on its performance and type safety. I’ve used it to solve Advent of Code challenges and to make backend apps run faster.
 
-* [Calculator](https://github.com/NeoScripter/Egui_calculator), a robust and user-friendly calculator with a sleek design built in Rust.
-* [Guessing Game](https://github.com/NeoScripter/Egui_guessing_game), an implementation of the classic guessing game from the Rust book, enhanced with Egui for a smooth user experience.
+**JavaScript:**
+I use JavaScript every day for web development, sticking to ES6+ features to keep things clean and efficient. I usually prefer using TypeScript—it’s reliable, safe, and easier to manage in the long run.
 
-**Other projects**
+**PHP:** 
+PHP is my go-to for backend development. Whether I’m working on a Laravel app or a WordPress site, it’s great for handling things like email validation, sending, and other server-side tasks.
 
-* [Asynchronized task executor](https://github.com/NeoScripter/Projects/blob/main/bin/async_task_executor/main.rs), a simulation of an asynchronized task executor.
-* [Tree with generic types](https://github.com/NeoScripter/Projects/blob/main/bin/generic_tree/main.rs), an implementation of a tree data structure, supporting generic types.
-* [Metadata extractor](https://github.com/NeoScripter/Projects/blob/main/bin/metadata_extractor/main.rs), a program for extracting metadata.
-* [Multithreaded quicksort algorythm](https://github.com/NeoScripter/Projects/blob/main/bin/qcksort_multi_thread/main.rs), a concurrent version of the classic quicksort algorithm for enhanced performance.
-* [Multithreaded map](https://github.com/NeoScripter/Projects/blob/main/bin/parallel_map/main.rs), a thread-safe implementation of the map data structure.
-* [Sliding window](https://github.com/NeoScripter/Projects/blob/main/bin/sliding_window/main.rs), an algorithm for efficient data processing and analysis.
-* [User input validator](https://github.com/NeoScripter/Projects/blob/main/bin/user_input_validation/main.rs), a program for validating user input.
-* [Network query simulation](https://github.com/NeoScripter/Projects/blob/main/bin/network_rq_sim/main.rs), a simulation of a network queries analyzer.
-* [Multithreaded message logger](https://github.com/NeoScripter/Projects/blob/main/bin/logging_system/main.rs), a simulation of a thread-safe logging system.
+**HTML:**
+HTML is my tool for building the structure of web pages. It’s straightforward and does exactly what I need to get the layout right.
+
+**CSS:**
+CSS is what I use to style websites and make them look great. I often rely on preprocessors like SCSS or tools like Tailwind, but I’m just as comfortable writing plain CSS when it’s needed.
+
+
+
+## ⛃ Databases
+**MySQL:**
+I’m comfortable with MySQL and have worked on designing and managing databases, making sure queries are optimized for better performance.
+
+**PostgreSQL:**
+I use PostgreSQL when projects need more advanced database features. It’s great for keeping data secure and handling complex queries efficiently.
+
+## ⚛ Frameworks
+**React:**
+I’ve worked on a few projects with React and know my way around its state management, lifecycle methods, and component-based structure.
+
+**Node.js:**
+I’m still learning Node.js and have built some small apps with it. I’ve focused mainly on async programming and working with streams
+
+**Laravel:**
+I’ve got solid experience with Laravel. I’ve used its MVC architecture to build scalable apps and custom CMS solutions that are easy to maintain.
+
+## 🚀 JS Libraries
+**jQuery:**
+I’ve worked with jQuery on various projects, mainly for quick DOM manipulations and handling legacy code. While it’s not my first choice for modern apps, it’s still a handy tool when needed.
+
+**Alpine.js:**
+I’ve used Alpine.js to add interactivity to websites without the overhead of larger frameworks. It’s lightweight, straightforward, and perfect for things like dropdowns, modals, and simple animations.
+## 🔗 Links
+[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://bespokewebsites.ru/)
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ilya-andreev-52a648189//)
+
+## 💼 Projects
+
+Check out all my projects on my website
+
+[My WebPortfolio](https://bespokewebsites.ru/)
