@@ -3,7 +3,7 @@ Hey there! I'm a web developer who genuinely loves building high-quality, fast, 
 
 I'm always eager to learn new things and improve my skills. Creating apps isn't just my job—it's what I enjoy doing most. If you want to see what I've been up to, feel free to check out my work!
 
-
+[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://bespokewebsites.ru/)
 
 
 ## 🖥️ Programming Languages
@@ -47,12 +47,9 @@ I’ve worked with jQuery on various projects, mainly for quick DOM manipulation
 
 **Alpine.js:**
 I’ve used Alpine.js to add interactivity to websites without the overhead of larger frameworks. It’s lightweight, straightforward, and perfect for things like dropdowns, modals, and simple animations.
-## 🔗 Links
-[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://bespokewebsites.ru/)
-[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ilya-andreev-52a648189//)
 
 ## 💼 Projects
 
-Check out all my projects on my website
+Check out my web portfolio!
 
-[My WebPortfolio](https://bespokewebsites.ru/)
+[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://bespokewebsites.ru/)
