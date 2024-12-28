@@ -2,7 +2,7 @@
 
 Hey there! 
 
-I'm a web developer who likes creating good-looking and highly scalable apps that are pleasant and easy to use. Using warious tools to achieve this goal, I try to make sure that my code is clean and maintainable.
+I'm a web developer who likes creating good-looking and highly scalable apps that are pleasant and easy to use. Using various tools to achieve this goal, I try to make sure that my code is clean and maintainable.
 
 
 ## Stack
