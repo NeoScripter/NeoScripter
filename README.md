@@ -8,7 +8,7 @@ Feel free to check out my portfolio website to see what I've worked on and drop 
 
 ## Stack
 
-**`PHP`** **`HTML`** **`CSS`** **`React`** **`Laravel`** **`Rust`** **`Node.js`** **`JavaScript`** **`TypeScript`** **`SCSS`** **`SQL`** **`Alpine.js`**
+**`PHP`** **`HTML`** **`CSS`** **`React`** **`Laravel`** **`Rust`** **`JavaScript`** **`SQL`**
 
 
 ## Projects
