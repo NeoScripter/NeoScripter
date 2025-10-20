@@ -1,9 +1,10 @@
 ## Ilya Andreev
 
-Hey there! 
+I'm very enthusiastic about programming and creating different things using code. Working as a freelance full-stack web developer and creating good-looking and snappy website and web apps for clients.
 
-I'm a web developer who likes creating good-looking and highly scalable apps that are pleasant and easy to use. Using various tools to achieve this goal, I try to make sure that my code is clean and maintainable.
+I like to make ideas come into life, it feels like real magic to me sometimes 🙂 I experiment from time to time with different technologies and learn new tools to improve my workflow. I also like coding challenges and things that push my skills to the next level.
 
+Feel free to check out my portfolio website to see what I've worked on and drop me a line if you have any questions. Have a great day!
 
 ## Stack
 
